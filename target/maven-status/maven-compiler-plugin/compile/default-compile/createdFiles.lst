@@ -1,0 +1,16 @@
+com\cp\rest\PessoasResource.class
+com\cp\rest\CidadesResource.class
+com\cp\util\AppLog.class
+com\cp\data\crud\BeanCrudPessoa.class
+com\cp\data\model\Pessoa.class
+com\cp\data\crud\BeanCrudCidade.class
+com\cp\web\BeanJFCidade.class
+com\cp\rest\configuration\CPApplication.class
+com\cp\rest\CidadesResource$JsonCidade.class
+com\cp\util\GenId.class
+com\cp\web\BeanJFPessoa.class
+com\cp\rest\PessoasResource$JsonPessoa.class
+com\cp\data\crud\interfaces\AbstractCrud.class
+com\cp\rest\PessoasResource$JsonCidade.class
+com\cp\data\crud\interfaces\EMNames.class
+com\cp\data\model\Cidade.class
